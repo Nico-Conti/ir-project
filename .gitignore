@@ -168,4 +168,4 @@ cython_debug/
 /data/
 
 # Ignore specific venv
-/venv_ir-project/
+/venv_ir_project/
